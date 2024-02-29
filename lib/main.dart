@@ -55,7 +55,7 @@ class _MyHomePageState extends State<MyHomePage> {
             SizedBox(height: 20.0),
             ElevatedButton(
               onPressed: () {
-                launch('https://github.com/your_username/your_repository'); // Замените на ссылку на ваш репозиторий GitHub
+                launch('https://github.com/AlihandR0/fali01'); // Замените на ссылку на ваш репозиторий GitHub
               },
               child: Text('GitHub'),
             ),
